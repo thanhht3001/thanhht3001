@@ -1,7 +1,7 @@
 # 💫About Me
 ### Hi there 👋
 
-##✨ Welcome to my Git!✨ 
+## ✨ Welcome to my Git!✨ 
 
 ⚡ I'm a fat person and people say that belly is for code.
 😄 In life we ​​have to be confident, not self-deprecating.
