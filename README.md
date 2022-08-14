@@ -1,4 +1,4 @@
-# 💫About Me :
+# 💫About Me
 ### Hi there 👋
 
 ##✨ Welcome to my Git!✨ 
