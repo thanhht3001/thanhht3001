@@ -1,5 +1,5 @@
 # 💫About Me :
-### Hi there 👋a
+### Hi there 👋
 
 ##✨ Welcome to my Git!✨ 
 
